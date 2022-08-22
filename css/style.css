@@ -1,0 +1,158 @@
+body{
+    font-family: 'Montserrat-light', sans-serif;
+}
+
+#title{
+    background-color: #FF4C68;
+}
+
+#title h1{
+    color: #FFF;
+}
+
+h1{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3.5rem;
+    line-height: 1.5;
+}
+
+h2{
+    font-family: "Montserrat", sans-serif;
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
+h3{
+    font-family: 'Montserrat', sans-serif;
+}
+p{
+    color: #8f8f8f;
+}
+.container-fluid{
+    padding: 3% 15% 13%;
+}
+
+/* Navigation Bar */
+.navbar{
+    padding-bottom: 4.5rem;
+}
+
+.nav-item{
+    padding: 0 1.5rem;
+}
+
+.nav-link{
+    font-family: "Montserrat-Light", sans-serif;
+    font-size: 1.2rem;
+}
+.navbar-brand{
+    font-family: "Ubuntu";
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+/*Buttons */
+.download-btn{
+    margin: 3% 3% 5% 0;
+}
+
+/* Title images */
+
+.title-img{
+    width: 20%;
+    transform: rotate(25deg);
+    position: absolute;
+    right: 25%;
+}
+
+/* Feature section */
+#features{
+    background-color: #fff;
+    padding: 7% 15%;
+    position: relative;
+}
+
+.feature-box{
+    text-align: center;
+    padding: 5%;
+}
+
+.icon{
+    color: #ef8172;
+    margin-bottom: 1rem;
+}
+
+.icon:hover{
+    color:#FF4C68;
+}
+
+/* Testimonials */
+
+#testimonials{
+    text-align: center;
+    background-color: #ef8172;
+    color: #fff;
+}
+
+.carousel-item{
+    padding: 7% 15%;
+}
+
+.testimonial-img{
+    width: 10%;
+    border-radius: 100%;
+    margin: 20px;
+}
+
+#press{
+    background-color: #ef8172;
+    text-align: center;
+    padding-bottom: 3%;
+}
+.press-logo{
+    width: 15%;
+    margin:20px 20px 50px;
+}
+
+#pricing{
+    margin: 7% 15%;
+    text-align: center;
+}
+.card{
+    margin: 20px;
+}
+
+#cta{
+    background-color: #ff4b68;
+    text-align: center;
+    padding: 7% 15%;
+    
+}
+.cta-h3{
+    padding: 3% 15%;
+    font-size: 4rem;
+    color: #fff;
+    line-height: 1.5;
+}
+
+#footer{
+    text-align: center;
+    margin: 5%;
+}
+
+#footer p{
+    padding-top: 20px;
+    font-size: 2rem;
+}
+#footer div a{
+    margin: 3%;
+    text-decoration: none;
+    color: inherit;
+}
+#footer div a:hover{
+    color: #0d6efd;
+}
+.f-d{
+    text-align: center;
+}
+
